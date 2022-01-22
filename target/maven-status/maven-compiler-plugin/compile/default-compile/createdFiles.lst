@@ -1,0 +1,5 @@
+com/hibernate/model/Student.class
+com/hibernate/model/StudentHome.class
+com/hibernate/HibernateUtilWithoutCFG.class
+com/hibernate/MainApp.class
+com/hibernate/HibernateUtil.class
